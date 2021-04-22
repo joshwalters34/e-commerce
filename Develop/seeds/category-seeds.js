@@ -1,4 +1,4 @@
-const { DataTypes } = require('sequelize/types');
+// const { DataTypes } = require('sequelize/types');
 const { Category } = require('../models');
 
 const categoryData = [
